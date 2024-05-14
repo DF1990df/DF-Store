@@ -5,7 +5,7 @@ document.querySelector('#menu-btn').onclick = () => {
 
 }
 window.onscroll = () => {
-    login.classList.remove('active');
+    navbar.classList.remove('active');
 
 }
 document.addEventListener('DOMContentLoaded', function() {
